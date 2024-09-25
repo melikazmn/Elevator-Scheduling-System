@@ -30,7 +30,7 @@ The elevator services passengers in equal time slices (quantum). If a passengerâ
 1. **Elevator Class**
 The Elevator class simulates the movement and functionality of the elevator.
 
-### Attributes:
+ *Attributes*:
 - numFloors: Number of floors in the building.
 - floorHeight: Height of each floor (in meters).
 - speedPerMeter: Speed of the elevator (in meters per second).
@@ -47,7 +47,7 @@ The Elevator class simulates the movement and functionality of the elevator.
 2. **Passenger Class**
 The Passenger class models passengers in the elevator system.
 
-### Attributes:
+*Attributes*:
 - arrivalFloor: The floor the passenger starts from.
 - destinationFloor: The floor the passenger is going to.
 - arrivalTime: The time the passenger requested the elevator.
