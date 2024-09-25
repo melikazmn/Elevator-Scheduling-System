@@ -4,14 +4,14 @@ It manages passengers' requests for the elevator from different floors, transpor
 
 ## Features
 Multiple Scheduling Algorithms:
-
 - First-Come-First-Serve (FCFS)
 - Shortest Job First (SJF)
 - Shortest Remaining Time First (SRTF)
 - Round Robin (RR)
-- Passenger Management: Track passengers' requests, their arrival and destination floors, waiting time, and turnaround time.
+  
+Passenger Management: Track passengers' requests, their arrival and destination floors, waiting time, and turnaround time.
 
-- Elevator Movement Simulation: Simulates realistic elevator movement between floors and calculates operation time.
+Elevator Movement Simulation: Simulates realistic elevator movement between floors and calculates operation time.
 
 ## Scheduling Algorithms
 1. **First-Come-First-Serve (FCFS)**
